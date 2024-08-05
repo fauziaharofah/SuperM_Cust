@@ -12,3 +12,6 @@ Bab 4. Analisis
 Bab 5. Kesimpulan dan rekomendasi
 
 Dengan demikian, diharapkan OBIMART dapat menyempuranakan strategi pemasarannya, mengoptimalkan kontribusi konsumen terhadap pendapatan OBIMART, dan secara keseluruhan dapat meningkatkan bisnis OBIMART. 
+
+
+NB: Gambar-gambar tabel yang dibutuhkan dalam file .ipynb tersimpan dalam folder zip (Daftar Table .jpg
